@@ -1,0 +1,106 @@
+Enter the text file name you want to test (just 1 or 2/3/4/5): 
+5
+Car1 gets a 08:00 time-stamped ticket, Entrance_1 opens, Car1 enters the garage.
+Car2 gets a 08:00 time-stamped ticket, Entrance_2 opens, Car2 enters the garage.
+Car3 gets a 08:00 time-stamped ticket, Entrance_3 opens, Car3 enters the garage.
+Car4 gets a 08:00 time-stamped ticket, Entrance_4 opens, Car4 enters the garage.
+Car5 gets a 08:10 time-stamped ticket, Entrance_4 opens, Car5 enters the garage.
+Car6 gets a 08:10 time-stamped ticket, Entrance_2 opens, Car6 enters the garage.
+Car7 gets a 08:10 time-stamped ticket, Entrance_3 opens, Car7 enters the garage.
+Car8 gets a 08:10 time-stamped ticket, Entrance_1 opens, Car8 enters the garage.
+Car9 gets a 08:11 time-stamped ticket, Entrance_4 opens, Car9 enters the garage.
+Car10 gets a 08:11 time-stamped ticket, Entrance_2 opens, Car10 enters the garage.
+Car11 gets a 08:11 time-stamped ticket, Entrance_3 opens, Car11 enters the garage.
+Car12 gets a 08:20 time-stamped ticket, Entrance_1 opens, Car12 enters the garage.
+Car13 gets a 08:20 time-stamped ticket, Entrance_3 opens, Car13 enters the garage.
+Car14 gets a 08:22 time-stamped ticket, Entrance_1 opens, Car14 enters the garage.
+Car15 gets a 08:30 time-stamped ticket, Entrance_2 opens, Car15 enters the garage.
+Car16 gets a 08:30 time-stamped ticket, Entrance_3 opens, Car16 enters the garage.
+At 09:00, Car2 presents their ticket and pays 3.00 dollars for 1.00 hours parking. Exit_1 opens, Car2 exits at 09:00
+At 09:10, Car5 presents their ticket and pays 3.00 dollars for 1.00 hours parking. Exit_2 opens, Car5 exits at 09:10
+Car17 gets a 09:30 time-stamped ticket, Entrance_3 opens, Car17 enters the garage.
+Car18 gets a 10:00 time-stamped ticket, Entrance_1 opens, Car18 enters the garage.
+Car19 gets a 10:00 time-stamped ticket, Entrance_2 opens, Car19 enters the garage.
+Car20 gets a 10:00 time-stamped ticket, Entrance_3 opens, Car20 enters the garage.
+Car21 gets a 10:00 time-stamped ticket, Entrance_4 opens, Car21 enters the garage.
+At 10:20, Car3 presents their ticket and pays 7.00 dollars for 2.33 hours parking. Exit_1 opens, Car3 exits at 10:20
+At 10:20, Car8 presents their ticket and pays 6.50 dollars for 2.17 hours parking. Exit_3 opens, Car8 exits at 10:20
+Car22 gets a 10:31 time-stamped ticket, Entrance_4 opens, Car22 enters the garage.
+Car23 gets a 10:31 time-stamped ticket, Entrance_2 opens, Car23 enters the garage.
+Car24 gets a 10:31 time-stamped ticket, Entrance_3 opens, Car24 enters the garage.
+Car25 gets a 10:40 time-stamped ticket, Entrance_4 opens, Car25 enters the garage.
+Car26 gets a 10:40 time-stamped ticket, Entrance_2 opens, Car26 enters the garage.
+Car27 gets a 10:40 time-stamped ticket, Entrance_3 opens, Car27 enters the garage.
+Car28 gets a 10:40 time-stamped ticket, Entrance_1 opens, Car28 enters the garage.
+Car29 gets a 10:50 time-stamped ticket, Entrance_4 opens, Car29 enters the garage.
+Car30 gets a 10:50 time-stamped ticket, Entrance_2 opens, Car30 enters the garage.
+Car31 gets a 10:50 time-stamped ticket, Entrance_3 opens, Car31 enters the garage.
+Car32 gets a 10:50 time-stamped ticket, Entrance_1 opens, Car32 enters the garage.
+Car33 gets a 11:00 time-stamped ticket, Entrance_2 opens, Car33 enters the garage.
+Car34 gets a 11:00 time-stamped ticket, Entrance_1 opens, Car34 enters the garage.
+Car35 gets a 11:00 time-stamped ticket, Entrance_3 opens, Car35 enters the garage.
+Car36 gets a 11:00 time-stamped ticket, Entrance_4 opens, Car36 enters the garage.
+At 11:10, Car6 presents their ticket and pays 9.00 dollars for 3.00 hours parking. Exit_1 opens, Car6 exits at 11:10
+Car37 gets a 11:20 time-stamped ticket, Entrance_2 opens, Car37 enters the garage.
+Car38 gets a 11:20 time-stamped ticket, Entrance_1 opens, Car38 enters the garage.
+Car39 gets a 11:20 time-stamped ticket, Entrance_3 opens, Car39 enters the garage.
+Car40 gets a 11:20 time-stamped ticket, Entrance_4 opens, Car40 enters the garage.
+At 11:24, Car9 presents their ticket and pays 9.65 dollars for 3.22 hours parking. Exit_4 opens, Car9 exits at 11:24
+At 11:24, Car1 presents their ticket and pays 10.20 dollars for 3.40 hours parking. Exit_2 opens, Car1 exits at 11:24
+At 11:24, Car13 presents their ticket and pays 9.20 dollars for 3.07 hours parking. Exit_3 opens, Car13 exits at 11:24
+Car41 gets a 11:30 time-stamped ticket, Entrance_4 opens, Car41 enters the garage.
+At 11:32, Car7 presents their ticket and pays 10.10 dollars for 3.37 hours parking. Exit_4 opens, Car7 exits at 11:32
+At 11:32, Car12 presents their ticket and pays 9.60 dollars for 3.20 hours parking. Exit_2 opens, Car12 exits at 11:32
+At 11:32, Car16 presents their ticket and pays 9.10 dollars for 3.03 hours parking. Exit_3 opens, Car16 exits at 11:32
+At 13:32, Car40 presents their ticket and pays 6.60 dollars for 2.20 hours parking. Exit_2 opens, Car40 exits at 13:32
+At 13:40, Car36 presents their ticket and pays 8.00 dollars for 2.67 hours parking. Exit_4 opens, Car36 exits at 13:40
+Car42 gets a 14:00 time-stamped ticket, Entrance_3 opens, Car42 enters the garage.
+Car43 gets a 14:05 time-stamped ticket, Entrance_1 opens, Car43 enters the garage.
+Car44 gets a 14:05 time-stamped ticket, Entrance_2 opens, Car44 enters the garage.
+Car45 gets a 14:05 time-stamped ticket, Entrance_3 opens, Car45 enters the garage.
+Car46 gets a 14:05 time-stamped ticket, Entrance_4 opens, Car46 enters the garage.
+Car47 gets a 14:10 time-stamped ticket, Entrance_4 opens, Car47 enters the garage.
+Car48 gets a 14:10 time-stamped ticket, Entrance_2 opens, Car48 enters the garage.
+Car49 gets a 14:10 time-stamped ticket, Entrance_3 opens, Car49 enters the garage.
+Car50 gets a 14:10 time-stamped ticket, Entrance_1 opens, Car50 enters the garage.
+Car51 gets a 14:14 time-stamped ticket, Entrance_4 opens, Car51 enters the garage.
+Car52 gets a 14:14 time-stamped ticket, Entrance_2 opens, Car52 enters the garage.
+Car53 gets a 14:14 time-stamped ticket, Entrance_3 opens, Car53 enters the garage.
+Car54 gets a 14:20 time-stamped ticket, Entrance_1 opens, Car54 enters the garage.
+Car55 gets a 14:20 time-stamped ticket, Entrance_3 opens, Car55 enters the garage.
+Car56 gets a 14:22 time-stamped ticket, Entrance_1 opens, Car56 enters the garage.
+Car57 gets a 14:30 time-stamped ticket, Entrance_4 opens, Car57 enters the garage.
+Car58 gets a 14:30 time-stamped ticket, Entrance_2 opens, Car58 enters the garage.
+Car59 gets a 14:30 time-stamped ticket, Entrance_3 opens, Car59 enters the garage.
+At 14:31, Car22 presents their ticket and pays 12.00 dollars for 4.00 hours parking. Exit_1 opens, Car22 exits at 14:31
+Car60 gets a 14:55 time-stamped ticket, Entrance_1 opens, Car60 enters the garage.
+Car61 gets a 14:55 time-stamped ticket, Entrance_2 opens, Car61 enters the garage.
+Car62 gets a 14:55 time-stamped ticket, Entrance_3 opens, Car62 enters the garage.
+Car63 gets a 14:55 time-stamped ticket, Entrance_4 opens, Car63 enters the garage.
+Car64 gets a 15:10 time-stamped ticket, Entrance_3 opens, Car64 enters the garage.
+Parking Garage is full, Car65 has just arrived at 15:10 and is now waiting at entrance_2 until spot is available.
+Parking Garage is full, Car66 has just arrived at 15:10 and is now waiting at entrance_4 until spot is available.
+Parking Garage is full, Car67 has just arrived at 15:10 and is now waiting at entrance_1 until spot is available.
+Parking Garage is full, Car68 has just arrived at 15:11 and is now waiting at entrance_4 until spot is available.
+Parking Garage is full, Car69 has just arrived at 15:11 and is now waiting at entrance_2 until spot is available.
+Parking Garage is full, Car70 has just arrived at 15:11 and is now waiting at entrance_3 until spot is available.
+Parking Garage is full, Car71 has just arrived at 15:11 and is now waiting at entrance_1 until spot is available.
+At 15:13, Car24 presents their ticket and pays 14.10 dollars for 4.70 hours parking. Exit_3 opens, Car24 exits at 15:13
+Car65 gets a 15:13 time-stamped ticket, Entrance_2 opens, Car65 enters the garage.
+At 15:14, Car30 presents their ticket and pays 13.20 dollars for 4.40 hours parking. Exit_4 opens, Car30 exits at 15:14
+Car66 gets a 15:14 time-stamped ticket, Entrance_4 opens, Car66 enters the garage.
+At 15:14, Car29 presents their ticket and pays 13.20 dollars for 4.40 hours parking. Exit_2 opens, Car29 exits at 15:14
+Car67 gets a 15:14 time-stamped ticket, Entrance_1 opens, Car67 enters the garage.
+At 15:14, Car17 presents their ticket and pays 17.20 dollars for 5.73 hours parking. Exit_3 opens, Car17 exits at 15:14
+Car68 gets a 15:14 time-stamped ticket, Entrance_4 opens, Car68 enters the garage.
+Parking Garage is full, Car72 has just arrived at 15:15 and is now waiting at entrance_3 until spot is available.
+At 15:16, Car32 presents their ticket and pays 13.30 dollars for 4.43 hours parking. Exit_4 opens, Car32 exits at 15:16
+Car69 gets a 15:16 time-stamped ticket, Entrance_2 opens, Car69 enters the garage.
+At 15:16, Car19 presents their ticket and pays 15.80 dollars for 5.27 hours parking. Exit_2 opens, Car19 exits at 15:16
+Car70 gets a 15:16 time-stamped ticket, Entrance_3 opens, Car70 enters the garage.
+At 15:16, Car18 presents their ticket and pays 15.80 dollars for 5.27 hours parking. Exit_3 opens, Car18 exits at 15:16
+Car71 gets a 15:16 time-stamped ticket, Entrance_1 opens, Car71 enters the garage.
+At 15:16, Car4 presents their ticket and pays 21.80 dollars for 7.27 hours parking. Exit_1 opens, Car4 exits at 15:16
+Car72 gets a 15:16 time-stamped ticket, Entrance_3 opens, Car72 enters the garage.
+
+Process finished with exit code 0

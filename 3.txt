@@ -1,0 +1,13 @@
+10 2 2.0
+8:00 arrive: Car1#1
+8:10 exit: Car1#1
+8:20 arrive: Car2#2
+8:35 exit: Car2#2
+8:40 arrive: Car1#2
+10:40 exit: Car1#2
+11:00 arrive: Car2#1
+12:00 arrive: Car3#2
+12:30 arrive: Car4#1
+13:00 exit: Car4#2
+14:00 exit: Car2#1
+14:15 exit: Car3#1

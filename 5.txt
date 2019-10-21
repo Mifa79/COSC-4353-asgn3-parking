@@ -1,0 +1,38 @@
+50 4 3.0
+8:00 arrive: Car1#1 Car2#2 Car3#3 Car4#4
+8:10 arrive: Car5#4 Car6#2 Car7#3 Car8#1
+8:11 arrive: Car9#4 Car10#2 Car11#3
+8:20 arrive: Car12#1 Car13#3
+8:22 arrive: Car14#1
+8:30 arrive: Car15#2 Car16#3
+9:00 exit: Car2#1
+9:10 exit: Car5#2
+9:30 arrive: Car17#3
+10:00 arrive: Car18#1 Car19#2 Car20#3 Car21#4
+10:20 exit: Car3#1 Car8#3
+10:31 arrive: Car22#4 Car23#2 Car24#3
+10:40 arrive: Car25#4 Car26#2 Car27#3 Car28#1
+10:50 arrive: Car29#4 Car30#2 Car31#3 Car32#1
+11:00 arrive: Car33#2 Car34#1 Car35#3 Car36#4
+11:10 exit: Car6#1
+11:20 arrive: Car37#2 Car38#1 Car39#3 Car40#4
+11:24 exit: Car9#4 Car1#2 Car13#3
+11:30 arrive: Car41#4
+11:32 exit: Car7#4 Car12#2 Car16#3
+13:32 exit: Car40#2
+13:40 exit: Car36#4
+14:00 arrive: Car42#3
+14:05 arrive: Car43#1 Car44#2 Car45#3 Car46#4
+14:10 arrive: Car47#4 Car48#2 Car49#3 Car50#1
+14:14 arrive: Car51#4 Car52#2 Car53#3
+14:20 arrive: Car54#1 Car55#3
+14:22 arrive: Car56#1
+14:30 arrive: Car57#4 Car58#2 Car59#3
+14:31 exit: Car22#1
+14:55 arrive: Car60#1 Car61#2 Car62#3 Car63#4
+15:10 arrive: Car64#3 Car65#2 Car66#4 Car67#1
+15:11 arrive: Car68#4 Car69#2 Car70#3 Car71#1
+15:13 exit: Car24#3
+15:14 exit: Car30#4 Car29#2 Car17#3
+15:15 arrive: Car72#3
+15:16 exit: Car32#4 Car19#2 Car18#3 Car4#1

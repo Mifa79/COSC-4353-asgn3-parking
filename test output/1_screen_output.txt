@@ -1,0 +1,19 @@
+Enter the text file name you want to test (just 1 or 2/3/4/5): 
+1
+Car1 gets a 08:00 time-stamped ticket, Entrance_1 opens, Car1 enters the garage.
+Car2 gets a 09:00 time-stamped ticket, Entrance_1 opens, Car2 enters the garage.
+At 09:15, Car1 presents their ticket and pays 0.63 dollars for 1.25 hours parking. Exit_1 opens, Car1 exits at 09:15
+Car3 gets a 09:30 time-stamped ticket, Entrance_1 opens, Car3 enters the garage.
+Car4 gets a 10:00 time-stamped ticket, Entrance_1 opens, Car4 enters the garage.
+Car5 gets a 12:00 time-stamped ticket, Entrance_1 opens, Car5 enters the garage.
+Parking Garage is full, Car6 has just arrived at 13:00 and is now waiting at entrance_1 until spot is available.
+At 13:05, Car3 presents their ticket and pays 1.79 dollars for 3.58 hours parking. Exit_1 opens, Car3 exits at 13:05
+Car6 gets a 13:05 time-stamped ticket, Entrance_1 opens, Car6 enters the garage.
+Parking Garage is full, Car7 has just arrived at 14:10 and is now waiting at entrance_1 until spot is available.
+Parking Garage is full, Car8 has just arrived at 14:12 and is now waiting at entrance_1 until spot is available.
+At 14:15, Car2 presents their ticket and pays 2.63 dollars for 5.25 hours parking. Exit_1 opens, Car2 exits at 14:15
+Car7 gets a 14:15 time-stamped ticket, Entrance_1 opens, Car7 enters the garage.
+At 14:17, Car4 presents their ticket and pays 2.14 dollars for 4.28 hours parking. Exit_1 opens, Car4 exits at 14:17
+Car8 gets a 14:17 time-stamped ticket, Entrance_1 opens, Car8 enters the garage.
+
+Process finished with exit code 0
