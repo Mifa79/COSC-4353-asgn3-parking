@@ -1,6 +1,6 @@
 This program can model any parking garage with the following required information: capacity, number of entrances/exits, and price per parking hour.
 
-## The input text file:
+## The input text file: (1.txt, 2.txt, 3.txt, 4.txt, 5.txt)
 - The first line of the input file contains 3 ordered numbers: capacity, number of entrances/exits, and price per parking hour.
   Example: 10 2 2.5
   10 is the parking capacity, number of entrances = number of exits = 2, parking rate = $2.5/hour
